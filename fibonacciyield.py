@@ -7,7 +7,7 @@ for f in fib(10):
     print(f)
 
 
-#another
+#another:
 def fib1():
     a, b=0, 1
     while True:
